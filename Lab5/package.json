@@ -1,0 +1,24 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Bootstrap and saas setup",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaysha1245/internet-tools.git"
+  },
+  "author": "Aaysha Malik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaysha1245/internet-tools/issues"
+  },
+  "homepage": "https://github.com/aaysha1245/internet-tools#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.4"
+  }
+}
